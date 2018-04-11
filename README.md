@@ -1,2 +1,2 @@
-# CPP_Work
-Work on some C++ code I have done.
+# CPPStuff
+A repository for some simple c++ work. Got to stay +.
